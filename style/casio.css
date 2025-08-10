@@ -1,0 +1,238 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-image-1 {
+  width: 302px;
+  height: 126px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 75px 410px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 1rem;
+  margin: -9px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 667px;
+  height: 286px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  box-shadow: 0px 0px 15px 0px rgba(7,0,255,1);
+  margin: 7px auto 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 314px;
+  height: 286px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  box-shadow: 0px 0px 15px 0px rgba(7,0,255,1);
+  margin: -286px 0 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 6px;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: solid;
+  font-weight: 700;
+  margin: 15px auto 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 929px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 74px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 603px;
+    height: 258px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 293px;
+    height: 265px;
+    margin-top: -261px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 9px;
+    padding: 8px 33px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 80px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+    margin-top: -13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 439px;
+    height: 188px;
+    margin-top: 21px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 191px;
+    height: 188px;
+    margin-top: -188px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 35px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 227%;
+    left: -63%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 101px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.75rem;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.875rem;
+    margin-top: 6px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 195px;
+    margin-top: 12px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 61px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 29px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 285%;
+    left: -92%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 191px;
+    height: 91px;
+    margin-top: 89px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.625rem;
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 8px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -146px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 15px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 407%;
+    left: -154%;
+  }
+}
+.u-header {
+    opacity: 0.9;
+	box-shadow: 0px 2px 8px 0px rgba(128, 128, 128, 1) !important;
+}
+footer {
+	box-shadow: 0px -2px 8px 0px rgba(128, 128, 128, 1) !important;
+}
+body::-webkit-scrollbar { 
+   width: 0 !important 
+}
+body { 
+  overflow: -moz-scrollbars-none; 
+  -ms-overflow-style: none; 
+}
